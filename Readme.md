@@ -31,7 +31,7 @@
 # ⚙️ Instalação e execução 
 
 1. Faça um clone/download desse repositório;
-2. Entre na pasta **my-project**;
+2. Entre na pasta **googleMaps_RN-main**;
 3. Rode **expo install** para instalar as dependências;
 4. rode **expo start**
 
