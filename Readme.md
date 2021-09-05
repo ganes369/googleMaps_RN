@@ -1,7 +1,7 @@
-# Teste técnico - Programa LabLuby JS
+# Exemplo do uso da api do maps em React Native
 
 
-## _Desafio nodejs_ 
+## _PDM_ 
 
 <img src="https://miro.medium.com/max/2000/1*QDQvlCg420lzRElCK4AYhw.png" width="120" height="80" />
 
