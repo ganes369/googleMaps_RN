@@ -2,7 +2,7 @@
 
 
 ## _PDM_ 
-<div style="border: 1px solid black;">
+<div style="border: 1px solid black; width: 100%;">
 <img src="https://miro.medium.com/max/2000/1*QDQvlCg420lzRElCK4AYhw.png" width="120" height="80" style="margin: 0 auto"/>
 </div>
 
