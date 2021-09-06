@@ -3,7 +3,7 @@
 
 ## _PDM_ 
 
-<img src="https://miro.medium.com/max/2000/1*QDQvlCg420lzRElCK4AYhw.png" width="120" height="80" style="text-align: center;"/>
+<img src="https://miro.medium.com/max/2000/1*QDQvlCg420lzRElCK4AYhw.png" width="120" height="80" style=" margin-left: auto; margin-right: auto;"/>
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
