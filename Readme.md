@@ -2,9 +2,9 @@
 
 
 ## _PDM_ 
-
-<img src="https://miro.medium.com/max/2000/1*QDQvlCg420lzRElCK4AYhw.png" width="120" height="80" styke="text-align= 'center';"/>
-
+<div style="border: 1px solid black;">
+<img src="https://miro.medium.com/max/2000/1*QDQvlCg420lzRElCK4AYhw.png" width="120" height="80" style="text-align= 'center';"/>
+</div>
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
