@@ -33,7 +33,8 @@
 1. Faça um clone/download desse repositório;
 2. Entre na pasta **googleMaps_RN-main**;
 3. Rode **expo install** para instalar as dependências;
-4. rode **expo start**
+4. Entre em **./config/keyGoogle.json** e altere a chave **geocodeApi** para as suas credenciais;
+5. rode **expo start**
 
 #
 
