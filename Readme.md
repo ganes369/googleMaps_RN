@@ -3,7 +3,7 @@
 
 ## _PDM_ 
 <div style="border: 1px solid black;">
-<img src="https://miro.medium.com/max/2000/1*QDQvlCg420lzRElCK4AYhw.png" width="120" height="80" style="text-align= 'center';"/>
+<img src="https://miro.medium.com/max/2000/1*QDQvlCg420lzRElCK4AYhw.png" width="120" height="80" style="margin: 0 auto"/>
 </div>
 
 
